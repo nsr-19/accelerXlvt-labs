@@ -3,10 +3,10 @@
 
 Everything today measured the cost of *one session*. This lab answers the question that's left over: what does it cost to re-explain the same codebase to a brand-new session tomorrow? You'll install a real memory plugin, fix a bug you've already fixed once, save what you learned, and then prove — in a session that has never seen this conversation — that the memory survived.
 
-> **In this lab** you'll use Supermemory, a real third-party Claude Code plugin — not an Anthropic feature, not something this program depends on. It's one example of a pattern (persistent, cross-session memory) that today's deck already named. Everything runs in self-hosted local mode: free, no account, no data leaving your machine.
-> This guide is written to be run solo, start to finish. If you're facilitating a room instead, everything here still works read aloud — there's nothing instructor-only held back.
-> **Docs:** https://supermemory.ai/docs/integrations/claude-code · https://github.com/supermemoryai/claude-supermemory
-> **Repo:** https://github.com/nsr-19/acceler-lvt-labs/tree/main/lvt-day4-code-demo — the pushed, pristine baseline for TaskFlow (seeded PATCH bug intact, no learned rules yet).
+> - **In this lab** you'll use Supermemory, a real third-party Claude Code plugin — not an Anthropic feature, not something this program depends on. It's one example of a pattern (persistent, cross-session memory) that today's deck already named. Everything runs in self-hosted local mode: free, no account, no data leaving your machine.
+> - This guide is written to be run solo, start to finish. If you're facilitating a room instead, everything here still works read aloud — there's nothing instructor-only held back.
+> - **Docs:** https://supermemory.ai/docs/integrations/claude-code · https://github.com/supermemoryai/claude-supermemory
+> - **Repo:** https://github.com/nsr-19/acceler-lvt-labs/tree/main/lvt-day4-code-demo — the pushed, pristine baseline for TaskFlow (seeded PATCH bug intact, no learned rules yet).
 
 ---
 
